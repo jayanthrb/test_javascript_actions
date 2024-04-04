@@ -8,6 +8,6 @@ inputs:
 outputs:
   time:
     description: 'The time we greeted you'
-  runs:
-    using: 'node20'
-    main: 'dist/index.js'
+runs:
+  using: 'node20'
+  main: 'dist/index.js'
